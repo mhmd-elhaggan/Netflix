@@ -1,0 +1,7 @@
+.Movies,.favorites{
+  background-color: rgb(53, 0, 0);
+}
+.favorites{
+  background-color: rgb(53, 0, 0);
+  height:50rem;
+}
